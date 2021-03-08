@@ -1,0 +1,55 @@
+#videos {
+    font-size: 20px;
+    font-family: Georgia, serif;
+    top: 0%;
+    padding: 0%;
+
+}
+
+.line2 {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+body{
+    background-color: rgb(240, 44, 125);
+}
+
+
+
+
+.tab {
+    overflow: hidden;
+    background-color: rgb(240, 44, 125);
+    width: 100%;
+  }
+
+  .tab button {
+    background-color:rgb(240, 44, 125);
+    float: right;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+  }
+  
+  .tablinks{
+      background-color: rgb(27, 90, 228) ;
+      font-size: 20;
+      font-family: cursive ;
+  }
+
+  
+#copy_right_footer{
+    text-align: center ;
+    bottom: 0;
+    line-height: 2;
+    background-color: palegreen;
+    width: 100%;
+    color: black;
+    font-family: Georgia, serif;
+    font-size: 20;
+}
