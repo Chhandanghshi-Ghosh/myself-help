@@ -7,3 +7,7 @@ function home(){
     window.location = 'index.html'
 
 }
+
+function photo(){
+    window.location = 'indexxx.html'
+}

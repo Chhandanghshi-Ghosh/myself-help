@@ -113,3 +113,28 @@ html {
       font-family: cursive;
       }
 
+
+#gallery{
+    background-color: rgb(236, 85, 229);
+    font-family: cursive;
+    text-align: center;
+    color: black;
+}
+
+.pictures{
+    width: 300px;   
+ height: 200px;
+border-radius: 15px;
+}
+
+.pictures1{
+    width: 400px;   
+ height: 400px;
+border-radius: 15px;
+}
+
+.pictures2{
+    width: 400px;   
+ height: 400px;
+border-radius: 15px;
+}

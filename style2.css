@@ -14,7 +14,7 @@
 }
 
 body{
-    background-color: rgb(240, 44, 125);
+    background-color: rgb(231, 193, 89);
 }
 
 
@@ -22,12 +22,12 @@ body{
 
 .tab {
     overflow: hidden;
-    background-color: rgb(240, 44, 125);
+    background-color: rgb(231, 193, 89);
     width: 100%;
   }
 
   .tab button {
-    background-color:rgb(240, 44, 125);
+    background-color:rgb(231, 193, 89);
     float: right;
     border: none;
     outline: none;
@@ -37,7 +37,7 @@ body{
   }
   
   .tablinks{
-      background-color: rgb(27, 90, 228) ;
+      background-color: rgb(231, 193, 89) ;
       font-size: 20;
       font-family: cursive ;
   }
@@ -52,11 +52,36 @@ body{
     color: black;
     font-family: Georgia, serif;
     font-size: 20;
+    position: fixed;
 }
 
 .logo{
     width: 200px;
     height: 200px;
     border: black;
+    border-radius: 15px;
+}
+
+.pictures{
+    width: 200;
+    height: 200;
+    border-radius: 15px;
+}
+
+.pictures1{
+    width: 200;
+    height: 200;
+    border-radius: 15px;
+}
+
+.pictures2{
+    width: 200;
+    height: 200;
+    border-radius: 15px;
+}
+
+.pictures3{
+    width: 200;
+    height: 250;
     border-radius: 15px;
 }
